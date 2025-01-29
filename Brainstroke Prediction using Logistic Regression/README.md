@@ -5,7 +5,7 @@
 This project aims to predict the likelihood of a person suffering from a stroke based on various health and demographic factors. The dataset used contains information such as age, gender, hypertension, heart disease, BMI, smoking habits, and more. The goal is to build a machine learning model that can accurately classify individuals as stroke or non-stroke cases.
 
 📊 **Dataset**  
-- **Source**: [Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle - Stroke Prediction Dataset](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset)
 - **Size**: 5110 records, 12 features  
 - **Features**:
   - gender (Male, Female, Other)
