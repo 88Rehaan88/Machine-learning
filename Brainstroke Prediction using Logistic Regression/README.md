@@ -41,5 +41,5 @@ This project aims to predict the likelihood of a person suffering from a stroke 
 
 **Installation Instructions**:
 1. Clone this repository:
-   ```bash
+  
    git clone https://github.com/88Rehaan88/Machine-learning.git
