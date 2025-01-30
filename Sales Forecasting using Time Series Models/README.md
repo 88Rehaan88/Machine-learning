@@ -55,9 +55,9 @@ The dataset contains daily sales data with the following key columns:
 
 | Model   | MAE | RMSE | MAPE |
 |---------|-----|------|------|
-| SARIMA  | 959.09267   | 1235.0641    |  41.06%   |
-| Prophet | A   | B    | C%   |
-| XGBoost | D   | E    | F%   |
+| SARIMA  | 959.09  | 1235.06    |  41.06%   |
+| Prophet | 1248.30   | 1577.61    | C%   | 43.31%
+| XGBoost | 2.7768   | 5.0437    | 1.41%   |
 
 ## **Visualizations**
 - Daily sales trends.
