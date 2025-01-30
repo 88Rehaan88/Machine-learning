@@ -35,6 +35,11 @@ The dataset contains daily sales data with the following key columns:
 - Analyzed **trends**, **seasonality**, and **outliers**.
 - Visualized **daily sales** and **rolling averages**.
 
+## **Visualizations**
+- Daily sales trends.
+- 7-day rolling average.
+- SARIMA and Prophet forecasts.
+
 ### **Modeling**:
 - **SARIMA**: Fitted using **auto_arima**.
 - **Prophet**: Used for its ability to handle **seasonality**.
@@ -59,7 +64,13 @@ The dataset contains daily sales data with the following key columns:
 | Prophet | 1248.30   | 1577.61    | 43.31%   | 
 | XGBoost | 2.7768   | 5.0437    | 1.41%   |
 
-## **Visualizations**
-- Daily sales trends.
-- 7-day rolling average.
-- SARIMA and Prophet forecasts.
+### **Conclusion**:
+This project analyzed and forecasted daily sales data for a superstore using time series techniques and machine learning. Key findings include:
+
+- **Trends and Seasonality:** Daily sales exhibit high variability with weekly seasonality, peaking on Tuesdays and Fridays.
+
+- **Model Performance:** XGBoost outperformed SARIMA and Prophet, achieving a MAPE of 1.41% compared to 41.06% (SARIMA) and 43.31% (Prophet). This improvement is attributed to XGBoost's ability to leverage rich feature engineering and capture non-linear relationships in the data.
+
+- **Validation:** The results were validated to ensure no data leakage or overfitting, confirming the robustness of the XGBoost model.
+
+This project demonstrates the power of combining time series analysis with machine learning for accurate sales forecasting. Future work could explore incorporating external factors (e.g., holidays, promotions) to further enhance model performance.
