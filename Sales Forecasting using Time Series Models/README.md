@@ -40,6 +40,7 @@ The dataset contains daily sales data with the following key columns:
 - 7-day rolling average.
 - SARIMA and Prophet forecasts.
 ![image](https://github.com/user-attachments/assets/85c5e68d-7e8d-4892-b8b6-a9ff4d784d65)
+<img src="https://github.com/user-attachments/assets/85c5e68d-7e8d-4892-b8b6-a9ff4d784d65" width="400">
 
 
 ### **Modeling**:
