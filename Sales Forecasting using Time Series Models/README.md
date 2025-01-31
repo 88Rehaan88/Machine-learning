@@ -36,19 +36,18 @@ The dataset contains daily sales data with the following key columns:
 - Visualized **daily sales** and **rolling averages**.
 
 ## **Visualizations**
-- Daily sales trends.
+- **Daily sales trends:**
 <img src="https://github.com/user-attachments/assets/85c5e68d-7e8d-4892-b8b6-a9ff4d784d65" width="500">
 
 
-- Decomposition plot for Seasonality:
+- **Decomposition plot for Seasonality:**
 <img src="https://github.com/user-attachments/assets/b0d034aa-84ad-4118-be37-5cb3b1f11076" width="500">
 
 
-- SARIMA forecast plot: 
+- **SARIMA forecast plot:** 
 <img src="https://github.com/user-attachments/assets/48cc0017-2263-4bc9-9b88-61d3c14842ae" width="500">
 
-  
-
+**NOTE :** The intepretation of these graphs have been given in the code file.
 
 
 ### **Modeling**:
