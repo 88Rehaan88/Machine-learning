@@ -41,8 +41,7 @@ The dataset contains daily sales data with the following key columns:
 
 
 - Decomposition plot for Seasonality:
-  <img src="https://github.com/user-attachments/assets/b0d034aa-84ad-4118-be37-5cb3b1f11076" width="500">
-
+<img src="https://github.com/user-attachments/assets/b0d034aa-84ad-4118-be37-5cb3b1f11076" width="500">
 
 
 - SARIMA forecast plot: 
